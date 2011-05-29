@@ -1,4 +1,4 @@
-; SICP Exercise 1.2
+; SICP Exercise 1.7
 
 (define (puts x)
   (display x)
